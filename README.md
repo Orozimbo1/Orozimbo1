@@ -89,9 +89,6 @@
     <a href="" target="_blank">
         <img height=50px width=50px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />    
     </a>
-    <a href="" target="_blank">
-        <img height=50px width=50px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />    
-    </a>
 </div>
 
 #

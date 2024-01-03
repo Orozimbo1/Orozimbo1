@@ -1,6 +1,6 @@
 # Olá, meu nome é Matheus Orozimbo 💻
  <p>
-  Entusiasta Front-end especializado em ReactJS e Next.js, traduzindo design em experiências envolventes. Proficiente em Sass, adiciono estilo e elegância aos projetos. Comprometido com qualidade técnica, busco constantemente aprimorar habilidades e explorar tendências. Minha jornada destaca-se pela criação de interfaces responsivas, acessíveis e impactantes visualmente. Com mentalidade inovadora, busco soluções criativas para desafios complexos. Aberto a colaborações, estou pronto para elevar o nível de qualquer projeto Front-end.
+  Desenvolvedor Front-end especializado em ReactJS e Next.js, traduzindo design em experiências envolventes. Proficiente em Sass, adiciono estilo e elegância aos projetos. Comprometido com qualidade técnica, busco constantemente aprimorar habilidades e explorar tendências. Minha jornada destaca-se pela criação de interfaces responsivas, acessíveis e impactantes visualmente. Com mentalidade inovadora, busco soluções criativas para desafios complexos. Aberto a colaborações, estou pronto para elevar o nível de qualquer projeto Front-end.
  </p>
 <br><br>
 

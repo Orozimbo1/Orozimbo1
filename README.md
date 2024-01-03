@@ -1,16 +1,16 @@
-# Hi, my name is Matheus Orozimbo 💻
- <p>I am a Full-Stack developer, currently  I am focused on getting specialized in front-end development, more specifically JavaScript, React, Node.js ... 
- You may watch my progress by checking my portfolio which is linked down below, and if ever you desire to contact me you can mail me or find me out on Linkedin
+# Olá, meu nome é Matheus Orozimbo 💻
+ <p>
+  Entusiasta Front-end especializado em ReactJS e Next.js, traduzindo design em experiências envolventes. Proficiente em Sass, adiciono estilo e elegância aos projetos. Comprometido com qualidade técnica, busco constantemente aprimorar habilidades e explorar tendências. Minha jornada destaca-se pela criação de interfaces responsivas, acessíveis e impactantes visualmente. Com mentalidade inovadora, busco soluções criativas para desafios complexos. Aberto a colaborações, estou pronto para elevar o nível de qualquer projeto Front-end.
  </p>
 <br><br>
 
-### 🔥 Streak Stats
+### 🔥 Frequência
 
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=Orozimbo1&theme=tokyonight" alt="7oSkaaa" /></p>
 
 #
 
-# 🧰 Tools and Tech 💻
+# 🧰 Ferramentas e Tecnologias 💻
 
 ### Front-end:
 <div align="center">
@@ -27,6 +27,10 @@
         <img height=50px width=50px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />    
     </a>
     <a href="" target="_blank">
+        <img height=50px width=50px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />    
+    </a>
+    <br><br>
+    <a href="" target="_blank">
         <img height=50px width=50px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />  
     </a>
     <a href="" target="_blank">
@@ -38,57 +42,25 @@
     <a href="" target="_blank">
         <img height=50px width=50px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" />  
     </a>
+    <a href="" target="_blank">
+        <img height=50px width=50px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />  
+    </a>
 </div>
 
-### Back-end:
+### ... Mais tecnologias e ferramentas
 <div align="center">
     <a href="" target="_blank">
         <img height=50px width=50px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />    
     </a>
     <a href="" target="_blank">
-        <img height=50px width=50px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />    
-    </a>
-    <a href="" target="_blank">
         <img height=50px width=50px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />    
     </a>
-    <a href="" target="_blank">
-        <img height=50px width=50px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" />    
-    </a>
-    <a href="" target="_blank">
-        <img height=50px width=50px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" />    
-    </a>
-</div>
-
-### Database:
-<div align="center">
     <a href="" target="_blank">
         <img height=50px width=50px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg"/>    
     </a>
     <a href="" target="_blank">
         <img height=50px width=50px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" >    
     </a>  
-    <a href="" target="_blank">
-        <img height=50px width=50px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg">    
-    </a>
-    <a href="" target="_blank">
-        <img height=50px width=50px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" >    
-    </a>
-</div>
-
-### ... More technologies and tools
-<div align="center">
-    <a href="" target="_blank">
-        <img height=50px width=50px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" >    
-    </a>
-    <a href="" target="_blank">
-        <img height=50px width=50px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain-wordmark.svg" >    
-    </a>
-    <a href="" target="_blank">
-        <img height=50px width=50px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" >    
-    </a>
-    <a href="" target="_blank">
-        <img height=50px width=50px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />    
-    </a>
 </div>
 
 #
@@ -101,7 +73,7 @@
  </p>
 <br>
 
-### Additional Informations:
+### Informações adicionais:
 email: matheusorozimbo5@gmail.com
 
 <a href="https://www.linkedin.com/in/matheusorozimbo" target="_blank">
